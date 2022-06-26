@@ -42,7 +42,7 @@ Dentro de los ODS elegidos también haremos distintos tipos de dificultad en cue
 - Sanchez (3, _, _)
 - Alegre (_, _)
 - Perez (_, _)
-- Fiotto (_, _)
+- Fiotto (1, _)
 
 ## Entregas Parciales
 - primer entregable (30/6):
