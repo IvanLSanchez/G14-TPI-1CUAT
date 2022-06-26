@@ -40,7 +40,7 @@ Dentro de los ODS elegidos también haremos distintos tipos de dificultad en cue
 
 ### division (no definidas)
 - Sanchez (3, _, _)
-- Alegre (_, _)
+- Alegre (6, _)
 - Perez (_, _)
 - Fiotto (1, _)
 
