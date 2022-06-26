@@ -17,6 +17,18 @@ Dentro de los ODS elegidos también haremos distintos tipos de dificultad en cue
 ## Estructura
 ![estrucuta](estructura_sitio.png)
 
+## Wireframe
+### Index
+![](wireframe_1.png)
+### Registrarse o inicio de sesion
+![](wireframe_2.png)
+### Perfil
+![](wireframe_3.png)
+### Juegos
+![](wireframe_4.png)
+### Estadisticas
+![](wireframe_5.png)
+
 ## Tareas
 1. Investigación y redacción de consignas y sus respuestas
 2. Diseño de imagen y de la UI
