@@ -39,10 +39,10 @@ Dentro de los ODS elegidos también haremos distintos tipos de dificultad en cue
 7. Puesta en producción
 
 ### division (no definidas)
-- Sanchez
-- Alegre
-- Perez
-- Fiotto
+- Sanchez (3, _, _)
+- Alegre (_, _)
+- Perez (_, _)
+- Fiotto (_, _)
 
 ## Entregas Parciales
 - primer entregable (30/6):
