@@ -38,10 +38,10 @@ Dentro de los ODS elegidos también haremos distintos tipos de dificultad en cue
 6. Testeo 
 7. Puesta en producción
 
-### division (no definidas)
-- Sanchez (3, _, _)
-- Alegre (6, _)
-- Perez (_, _)
+### responsabilidades (no definidas)
+- Sanchez (3, 2, 7)
+- Alegre (6, 5)
+- Perez (4, _)
 - Fiotto (1, _)
 
 ## Entregas Parciales
