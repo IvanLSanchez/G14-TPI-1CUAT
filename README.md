@@ -1,3 +1,1 @@
-# G14-TPI-1CUAT
-## Presupuesto
-[documento de alcance](PRESUPUESTO.md)
+# proyecto_interdiciplinario_grupo14
