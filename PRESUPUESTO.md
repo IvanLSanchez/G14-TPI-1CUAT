@@ -39,10 +39,10 @@ Dentro de los ODS elegidos también haremos distintos tipos de dificultad en cue
 7. Puesta en producción
 
 ### responsabilidades (no definidas)
-- Sanchez (3, 2, 7)
-- Alegre (6, 5)
-- Perez (4, _)
-- Fiotto (1, _)
+- Sanchez (3, 2, 5)
+- Alegre (7, 5)
+- Perez (4, 6)
+- Fiotto (1, 6)
 
 ## Entregas Parciales
 - primer entregable (30/6):
