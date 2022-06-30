@@ -1,4 +1,3 @@
-
 # Presupuesto de trabajo, grupo:14, division:B 
 
 ## Integrantes
@@ -59,7 +58,6 @@ Dentro de los ODS elegidos también haremos distintos tipos de dificultad en cue
 
 - Tercer Entregable (14/7):
   - Juego completo en linea
-
 
 
 
