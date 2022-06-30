@@ -38,6 +38,7 @@ Dentro de los ODS elegidos también haremos distintos tipos de dificultad en cue
 6. Testeo 
 7. Puesta en producción
 
+
 ### responsabilidades
 - Sanchez (3, 2, 5)
 - Alegre (7, 5)
