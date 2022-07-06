@@ -44,20 +44,4 @@ Dentro de los ODS elegidos también haremos distintos tipos de dificultad en cue
 - Perez (4, 6)
 - Fiotto (1, 6)
 
-## Entregas Parciales
-- primer entregable (30/6):
-  - Estructura de la base de datos
-  - consignas de los distintos juegos
-  - Reglas y puntajes
-  - Maqueta html
-
-- Segundo entregable (7/7):
-  - API en flask
-  - UI de juegos en conjunto con back-end
-  - Preuebas de juego
-
-- Tercer Entregable (14/7):
-  - Juego completo en linea
-
-
-
+[inicio](README.md)
