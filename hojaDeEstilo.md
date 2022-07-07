@@ -10,5 +10,6 @@
 ## Imagenes y Elementos
 
 ## Animaciones
+![menu para seleccionar juegos](gifIndex.gif)
 
 [Inicio](README.md)
