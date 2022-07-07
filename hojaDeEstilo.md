@@ -4,11 +4,12 @@
 ![](paletaColores.PNG)
 
 ## Logo
-![](ODSgames.png)
+![](ODS_logo_1.png)
 
 ## Tipografias
 
 ## Imagenes y Elementos
+![](ODS_logo_1.png)
 
 ## Animaciones
 ![menu para seleccionar juegos](gifIndex.gif)
