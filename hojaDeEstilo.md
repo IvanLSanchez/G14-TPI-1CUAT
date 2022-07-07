@@ -4,6 +4,7 @@
 ![](paletaColores.PNG)
 
 ## Logo
+![](ODSgames.png)
 
 ## Tipografias
 
