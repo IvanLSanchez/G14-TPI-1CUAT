@@ -9,8 +9,7 @@
 ## Tipografias
 
 ## Imagenes y Elementos
-<img src="ODSLogo1.png" style="height:100px">
-<img src="ODSLogo2.png" style="height:100px">
+<img src="ODSLogo1.png" style="height:100px"><img src="ODSLogo2.png" style="height:100px">
 <img src="ODSLogo3.png" style="height:100px">
 <img src="ODSLogo4.png" style="height:100px">
 <img src="ODSLogo5.png" style="height:100px">
