@@ -10,23 +10,23 @@
 
 ## Imagenes y Elementos
 <img src="ODSLogo1.png" style="height:100px">
-![](ODSLogo1.png)
-![](ODSLogo2.png)
-![](ODSLogo3.png)
-![](ODSLogo4.png)
-![](ODSLogo5.png)
-![](ODSLogo6.png)
-![](ODSLogo7.png)
-![](ODSLogo8.png)
-![](ODSLogo9.png)
-![](ODSLogo10.png)
-![](ODSLogo11.png)
-![](ODSLogo12.png)
-![](ODSLogo13.png)
-![](ODSLogo14.png)
-![](ODSLogo15.png)
-![](ODSLogo16.png)
-![](ODSLogo17.png)
+<img src="ODSLogo2.png" style="height:100px">
+<img src="ODSLogo3.png" style="height:100px">
+<img src="ODSLogo4.png" style="height:100px">
+<img src="ODSLogo5.png" style="height:100px">
+<img src="ODSLogo6.png" style="height:100px">
+<img src="ODSLogo7.png" style="height:100px">
+<img src="ODSLogo8.png" style="height:100px">
+<img src="ODSLogo9.png" style="height:100px">
+<img src="ODSLogo10.png" style="height:100px">
+<img src="ODSLogo11.png" style="height:100px">
+<img src="ODSLogo12.png" style="height:100px">
+<img src="ODSLogo13.png" style="height:100px">
+<img src="ODSLogo14.png" style="height:100px">
+<img src="ODSLogo15.png" style="height:100px">
+<img src="ODSLogo16.png" style="height:100px">
+<img src="ODSLogo17.png" style="height:100px">
+
 
 ## Animaciones
 ![menu para seleccionar juegos](gifIndex.gif)
