@@ -15,19 +15,19 @@ Realizar una interfaz de minijuegos sobre cada ODS. En principio para evitar hac
 Dentro de los ODS elegidos también haremos distintos tipos de dificultad en cuestión de desarrollo. En una primera instancia se van a priorizar juegos simples. (crucigramas, sopa de letras, quiz, etc) y en caso de poder contar con el tiempo, crear un minijuego más desarrollado (juego tipo flash, mecánicas simples sin mucho extension en cuanto a niveles)
 
 ## Estructura
-![estructura](documentoDeAlcanceImagenes/estructura_sitio.png)
+![estructura](Img/documentoDeAlcanceImagenes/estructura_sitio.png)
 
 ## Wireframe
 ### Index
-![](documentoDeAlcanceImagenes/wireframe_1.png)
+![](Img/documentoDeAlcanceImagenes/wireframe_1.png)
 ### Registrarse o inicio de sesion
-![](documentoDeAlcanceImagenes/wireframe_2.png)
+![](Img/documentoDeAlcanceImagenes/wireframe_2.png)
 ### Perfil
-![](documentoDeAlcanceImagenes/wireframe_3.png)
+![](Img/documentoDeAlcanceImagenes/wireframe_3.png)
 ### Juegos
-![](documentoDeAlcanceImagenes/wireframe_4.png)
+![](Img/documentoDeAlcanceImagenes/wireframe_4.png)
 ### Estadisticas
-![](documentoDeAlcanceImagenes/wireframe_5.png)
+![](Img/documentoDeAlcanceImagenes/wireframe_5.png)
 
 ## Tareas
 1. Investigación y redacción de consignas y sus respuestas
