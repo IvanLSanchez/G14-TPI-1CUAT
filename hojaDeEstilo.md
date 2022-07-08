@@ -9,6 +9,7 @@
 ## Tipografias
 
 ## Imagenes y Elementos
+<img src="ODSLogo1.png" style="height:100px">
 ![](ODSLogo1.png)
 ![](ODSLogo2.png)
 ![](ODSLogo3.png)
