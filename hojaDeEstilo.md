@@ -1,18 +1,18 @@
 # Hoja de Estilo
 ## Paleta de colores
-![](extraccionColores.PNG)
-![](paletaColores.PNG)
+![](hojaDeEstiloImagenes/extraccionColores.PNG)
+![](hojaDeEstiloImagenes/paletaColores.PNG)
 
 ## Logo
-![](ODSgames.png)
+![](hojaDeEstiloImagenes/ODSgames.png)
 
 ## Tipografias
 
 
 ## Imagenes y Elementos
-<img src="ODSLogo1.png" style="height:100px"></img><img src="ODSLogo2.png" style="height:100px"></img><img src="ODSLogo3.png" style="height:100px"></img><img src="ODSLogo4.png" style="height:100px"></img><img src="ODSLogo5.png" style="height:100px"></img><img src="ODSLogo6.png" style="height:100px"></img><img src="ODSLogo7.png" style="height:100px"></img><img src="ODSLogo8.png" style="height:100px"></img><img src="ODSLogo9.png" style="height:100px"></img><img src="ODSLogo10.png" style="height:100px"></img><img src="ODSLogo11.png" style="height:100px"></img><img src="ODSLogo12.png" style="height:100px"></img><img src="ODSLogo13.png" style="height:100px"></img><img src="ODSLogo14.png" style="height:100px"></img><img src="ODSLogo15.png" style="height:100px"></img><img src="ODSLogo16.png" style="height:100px"></img><img src="ODSLogo17.png" style="height:100px"></img>
+<img src="hojaDeEstiloImagenes/ODSLogo1.png" style="height:100px"></img><img src="hojaDeEstiloImagenes/ODSLogo2.png" style="height:100px"></img><img src="hojaDeEstiloImagenes/ODSLogo3.png" style="height:100px"></img><img src="hojaDeEstiloImagenes/ODSLogo4.png" style="height:100px"></img><img src="hojaDeEstiloImagenes/ODSLogo5.png" style="height:100px"></img><img src="hojaDeEstiloImagenes/ODSLogo6.png" style="height:100px"></img><img src="hojaDeEstiloImagenes/ODSLogo7.png" style="height:100px"></img><img src="hojaDeEstiloImagenes/ODSLogo8.png" style="height:100px"></img><img src="hojaDeEstiloImagenes/ODSLogo9.png" style="height:100px"></img><img src="hojaDeEstiloImagenes/ODSLogo10.png" style="height:100px"></img><img src="hojaDeEstiloImagenes/ODSLogo11.png" style="height:100px"></img><img src="hojaDeEstiloImagenes/ODSLogo12.png" style="height:100px"></img><img src="hojaDeEstiloImagenes/ODSLogo13.png" style="height:100px"></img><img src="hojaDeEstiloImagenes/ODSLogo14.png" style="height:100px"></img><img src="hojaDeEstiloImagenes/ODSLogo15.png" style="height:100px"></img><img src="hojaDeEstiloImagenes/ODSLogo16.png" style="height:100px"></img><img src="hojaDeEstiloImagenes/ODSLogo17.png" style="height:100px"></img>
 
 ## Animaciones
-![menu para seleccionar juegos](gifIndex.gif)
+![menu para seleccionar juegos](hojaDeEstiloImagenes/gifIndex.gif)
 
 [Inicio](README.md)
