@@ -3,4 +3,5 @@
 [Documento de alcance](PRESUPUESTO.md)
 
 ## Interfaz de usuario
-[Hoja de Estilo](hojaDeEstilo.md)
+[Hoja de Estilo](hojaDeEstilo.md)\
+[Wireframe](wireFrame.md)

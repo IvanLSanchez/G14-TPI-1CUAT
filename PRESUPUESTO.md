@@ -18,16 +18,7 @@ Dentro de los ODS elegidos también haremos distintos tipos de dificultad en cue
 ![estructura](Img/documentoDeAlcanceImagenes/estructura_sitio.png)
 
 ## Wireframe
-### Index
-![](Img/documentoDeAlcanceImagenes/wireframe_1.png)
-### Registrarse o inicio de sesion
-![](Img/documentoDeAlcanceImagenes/wireframe_2.png)
-### Perfil
-![](Img/documentoDeAlcanceImagenes/wireframe_3.png)
-### Juegos
-![](Img/documentoDeAlcanceImagenes/wireframe_4.png)
-### Estadisticas
-![](Img/documentoDeAlcanceImagenes/wireframe_5.png)
+[Wireframe](wireFrame.md)
 
 ## Tareas
 1. Investigación y redacción de consignas y sus respuestas
