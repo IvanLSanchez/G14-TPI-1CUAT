@@ -7,8 +7,8 @@
 [Wireframe](wireFrame.md)
 
 ## consignas
-[Crucigrama](crucigrama.md)
-[Verdadero o Falso](verdaderoFalso.md)
+[Crucigrama](crucigrama.md) \
+[Verdadero o Falso](verdaderoFalso.md) \
 [Sopa de Letras](sopaDeLetras.md)
 
 ## aplicacion en flask
