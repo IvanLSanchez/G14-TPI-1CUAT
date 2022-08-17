@@ -26,3 +26,5 @@
 
 - En promedio al rededor del mundo las mujeres ganan un 24% menos que los hombres.
    - Respuesta: V
+
+[inicio](README.md)
