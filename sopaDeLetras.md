@@ -7,7 +7,10 @@ palabras:
 - desarrollo
 - renovables
 - consumo
-- ahorrar
 - carbono
+- hidroelectrico
+- contaminacion
+- sostenibiidad
+- sustentabilidad
 
 [inicio](README.md)
