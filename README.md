@@ -14,7 +14,7 @@
 ## Base de Datos
 ### DER
 ![DER](Img/db/DER.PNG) \
-[Replit de a base](https://replit.com/join/wdpshzilyf-loco5484)
+[Replit de la base](https://replit.com/join/wdpshzilyf-loco5484)
 
 
 ## Aplicacion en flask
