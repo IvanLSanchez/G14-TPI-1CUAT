@@ -2,10 +2,12 @@
 
 palabras:
 - Bioenergia 
-- sostenibilidad 
-- ecosistema 
-- hidroelectrico 
-- contaminaciòn 
-- sustentabilidad
+- energia 
+- ecosistema
+- desarrollo
+- renovables
+- consumo
+- ahorrar
+- carbono
 
 [inicio](README.md)
