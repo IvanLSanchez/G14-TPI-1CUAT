@@ -13,7 +13,7 @@
 
 ## Base de Datos
 ### DER
-![DER]()
+![DER]() \
 [Replit de a base](https://replit.com/join/wdpshzilyf-loco5484)
 
 
