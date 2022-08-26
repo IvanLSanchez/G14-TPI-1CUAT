@@ -10,7 +10,7 @@ palabras:
 - carbono
 - hidroelectrico
 - contaminacion
-- sostenibiidad
+- sostenibilidad
 - sustentabilidad
 
 [inicio](README.md)
