@@ -13,7 +13,7 @@
 
 ## Base de Datos
 ### DER
-![DER]() \
+![DER](Img/db/DER.PNG) \
 [Replit de a base](https://replit.com/join/wdpshzilyf-loco5484)
 
 
