@@ -21,4 +21,7 @@
 - accion que contribuye a la escacez de alimentos (8)
 - En terminos generales influye positivamente este ODS (9)
 
+## Plantilla
+![plantilla](Img/consignas/crucigrama.PNG)
+
 [inicio](README.md)
