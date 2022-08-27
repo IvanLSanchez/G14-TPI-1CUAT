@@ -18,5 +18,5 @@
 
 
 ## Aplicacion en flask
-[aplicacion](https://ODSgames-1.loco5484.repl.co) \
+[aplicacion](http://falegre22.pythonanywhere.com/) \
 [repositorio](https://github.com/IvanLSanchez/G14-TPI-FLASK)
