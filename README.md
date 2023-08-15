@@ -13,10 +13,8 @@
 
 ## Base de Datos
 ### DER
-![DER](Img/db/DER.PNG) \
-[Replit de la base](https://replit.com/join/wdpshzilyf-loco5484)
-
+![DER](Img/db/DER.PNG)
 
 ## Aplicacion en flask
-[aplicacion](http://falegre22.pythonanywhere.com/) \
-[repositorio](https://github.com/IvanLSanchez/G14-TPI-FLASK)
+[aplicacion](http://falegre22.pythonanywhere.com/)
+[archivos](programa)
